@@ -4,48 +4,48 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Je suis un développeur passionné maîtrisant JavaScript/TypeScript, spécialisé dans React, Angular et divers frameworks CSS. Mon expertise s'étend à la création d'interfaces web dynamiques et esthétiques, grâce à une solide connaissance des technologies front-end."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Le mépris envers les langages de programmation backend tels que Java, JavaScript, C# et même une dose de PHP peut découler d'une préférence personnelle pour d'autres technologies ou approches."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Conception",
+      "description": "Expert en conception Merise et UML, je maîtrise également la création de maquettes sur Figma. Fort d'une expérience approfondie, je suis compétent pour élaborer des solutions informatiques robustes et intuitives, garantissant une excellente qualité de développement."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Gestion De Projet",
+      "description": "Passionné par Scrum, j'utilise avec aisance Jira, Trello, Notion, Azure et Docker pour orchestrer des cycles de développement agiles. Cette approche optimise la gestion des tâches, la communication transparente et garantit des livraisons de qualité dans les délais. Mon objectif est de favoriser l'innovation et la collaboration au sein de l'équipe."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Kawaa",
+      "description": "incubateurincubateur EuraTechnologies · StageEuraTechnologies · Stage nov. 2023 - aujourd’hui Lille, Hauts-de-France, France · HybrideLille, Hauts-de-France, France · Hybride Mise en situation professionnelle sur un projet concret en équipe et accompagné d'un formateur. Pour le travail d'équipe, la méthode agile (daily, sprint, review, retro...) et les outils comme Jira et GIT qu'ont utilisés. l'application est une application web covoiturage, favorisant la transition énergétique et les économies de trajets. Les technologies utilisées incluent Java 17, Spring Boot 3.0.7, React 17.0.2, Tailwind 3.3.2 CSS, et Vite 3.0.3. L'application se distingue par son accessibilité, offrant un fort contraste, une synthèse vocale, et des espaces de saisie adaptés aux personnes en situation de handicap. Elle respecte les normes de confidentialité, vise un hébergement à faible émission, et évolue selon le cahier d'expression de besoin pour la version 1.0. Ouverte aux collaborateurs, elle envisage une extension aux stagiaires et s'adresse à un public soucieux de l'environnement.",
+      "link": "https://github.com/Sondes-Messai/Convoiturage"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "L'application actuelle propose un tableau de bord complet avec des indicateurs clés, intégrant une gestion complète des aspects clients, offres de service, factures, finances, et calendrier. L'ensemble est interconnecté grâce à des API REST, offrant ainsi une expérience utilisateur fluide et intégrée.",
+      "link": "https://github.com/Sondes-Messai/Projet-de-Stage-CDA"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Mario Pizza",
+      "description": "Bienvenue dans l'application Mario Pizza ! Cette application a été développée avec React Native et Java pour vous permettre de passer facilement des commandes de pizzas. Découvrez notre sélection de délicieuses pizzas et personnalisez-les selon vos préférences .",
+      "link": "https://github.com/Sondes-Messai/ECF3AppPizzaReactNative-java"
     }
   ],
   "testimonial": [
@@ -53,25 +53,25 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Collaboratrice exceptionnelle en développement full stack alliant expertise technique et créativité pour livrer des solutions innovantes.",
       "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "author_designation": "Id Formation"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Développeuse full stack passionnée et rigoureuse excellente dans la conception et la réalisation de projets web dynamiques.",
       "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "author_designation": "M2i"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Expertise full stack remarquable contribue avec talent à la réussite de chaque projet. Fortement recommandée.",
       "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "author_designation": "Simplon"
     }
   ]
 }
